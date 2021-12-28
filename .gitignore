@@ -1,0 +1,5 @@
+asudarsanan
+terraform.state
+.terrafrom/*
+terraform.tfstate
+terraform.tfstate.backup
